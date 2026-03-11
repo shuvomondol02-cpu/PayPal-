@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <p><br></p>
+    <p><strong>INVOICE</strong></p>
+    <div class="invoice-container">
+        <table style="width: 100%; border: 1px solid #ccc; font-family: Arial, sans-serif; font-size: 14px; border-collapse: collapse;">
+            <tbody>
+                <tr>
+                    <td style="padding: 10px; width: 20%; text-align: center; vertical-align: middle; border-right: 1px solid #ccc;"><img style="width: 80px;" src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="PayPal"></td>
+                    <td style="padding: 10px; width: 52.9367%; text-align: left; vertical-align: middle;"><strong style="font-size: 18px; color: #003087;">PayPal Inc.</strong><br>2211 N 1st St, San Jose, CA 95131, US<br>Attn: Customer Service Department</td>
+                    <td style="padding: 10px; width: 27.0305%; text-align: center; vertical-align: middle; background-color: #f5f5f5;"><img style="max-width: 50px; border-radius: 50px;" src="data:image/jpeg;base64,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" alt="Call Us">
+                        <div style="font-size: 16px; font-weight: bold; color: #003087;">+1 (858) 281-5135</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table style="width: 100%; font-family: Arial, sans-serif; border: 1px solid #ccc; padding: 20px; background-color: #fff; font-size: 14px; line-height: 1.6; color: #333;" class="fr-table-selection-hover">
+            <tbody>
+                <tr>
+                    <td style="font-size: 20px; font-weight: bold; padding-bottom: 20px; text-align: left;" colspan="4">Payment Receipt</td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 20px;" colspan="4" class="fr-selected-cell">Dear Customer,<br>invoice-no: <b>6H743G47G0</b><br>Through PayPal, you have successfully paid 549.99 USD for Bitcoin (BTC). &nbsp;This charge will show up as a PayPal payment on your statement. &nbsp;If you have any questions about this transaction, don&apos;t hesitate to contact us after reading the information below.</td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 20px; text-align: center; font-size: 14px;" colspan="4">
+                        <table style="width: 100%; border: 1px solid #ccc; border-collapse: collapse; text-align: left;">
+                            <tbody>
+                                <tr style="background-color: #f5f5f5; font-weight: bold;">
+                                    <td style="padding: 10px; border: 1px solid #ccc;">Description</td>
+                                    <td style="padding: 10px; border: 1px solid #ccc;">Quantity</td>
+                                    <td style="padding: 10px; border: 1px solid #ccc;">Unit-Price</td>
+                                    <td style="padding: 10px; border: 1px solid #ccc;">Total</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 10px; border: 1px solid #ccc;"><strong>BITCOIN (BTC)</strong> Purchase</td>
+                                    <td style="padding: 10px; border: 1px solid #ccc;">x1</td>
+                                    <td style="padding: 10px; border: 1px solid #ccc;">549.99 USD</td>
+                                    <td style="padding: 10px; border: 1px solid #ccc;">549.99 USD</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding: 10px 0; color: #d9534f; font-weight: bold;" colspan="4">Any issue with the transaction?</td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold; padding-bottom: 10px;" colspan="4">Important Information About Your Transaction.</td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 20px;" colspan="4">We value your ongoing PayPal usage. &nbsp;We guarantee safe transactions for each and every one of our clients as a reputable payment processor.<br></td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 20px;" colspan="4">Please call our billing support team at <strong><span style="color: rgb(41, 105, 176);">+1 (858) 281-5135</span></strong> to report if this transaction is not authorized by you.</td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 10px; font-size: 12px; color: #555;" colspan="4"><strong>NOTE:</strong> This charge will appear on your statement as payment to <strong>PayPal</strong> within 6 hours.</td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 20px;" colspan="4">Sincerely,<br><strong>PayPal Billing Team</strong></td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;" colspan="4">
+                        <div style="background-color: #f5f5f5; padding: 15px; display: inline-block; border-radius: 5px; font-weight: bold; font-size: 18px; color: #003087;">+1 (858) 281-5135</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; font-size: 12px; color: #aaa; padding-top: 20px;" colspan="4">Copyright&copy; 2025 PayPal Inc. All rights reserved.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>
